@@ -58,4 +58,6 @@ This guide is intended solely for educational purposes. The information provided
 
 
 
-Update:  07/04/2025 04-18-20 The link is operational once more.
+
+
+Update:  07/07/2025 12-09 Outdated paths
