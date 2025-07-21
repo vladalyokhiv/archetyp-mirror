@@ -64,4 +64,6 @@ This guide is intended solely for educational purposes. The information provided
 
 
 
-Update:  Friday 18 July 2025
+
+
+Update: Fixed broken links in security policy
