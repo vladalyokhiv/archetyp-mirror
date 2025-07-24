@@ -66,4 +66,6 @@ This guide is intended solely for educational purposes. The information provided
 
 
 
-Update: Fixed broken links in security policy
+
+
+Update:  07/24/2025 12-02 Link validation
